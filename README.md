@@ -1,1 +1,1 @@
-A game where monsters get to switch places as the wizard conquers, but game ends when wizard loses or all monsters have been conquered. The survivor is then declared the winner.
+A game where monsters switch places as a wizard conquers, of which the game ends when the wizard loses or all monsters have been conquered. The survivor is then declared the winner.
