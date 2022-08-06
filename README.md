@@ -1,1 +1,1 @@
-A game where monsters switch places as a wizard conquers, of which the game ends when the wizard loses or all monsters have been conquered. The survivor is then declared the winner.
+A game where 3 monsters switch places as a wizard’s health bar decreases, of which the game ends when either the wizard or monsters health bar reduces to 0. The survivor is then declared the winner.
